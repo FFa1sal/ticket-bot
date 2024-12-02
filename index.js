@@ -548,7 +548,7 @@ client.on("interactionCreate", async (i) => {
     }
 });
 //Login
-client.login("MTMxMTgyODcxMDkzMjA5MDkwMA.G7NwMh.eBhFgc3fjlmMJEPTvHDU-aG1Q1ABMwTRft3Zp8");
+client.login("");
 //Error Handle
 process.on("unhandledRejection", (error) => {
     return console.log(error);
