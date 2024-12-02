@@ -548,7 +548,7 @@ client.on("interactionCreate", async (i) => {
     }
 });
 //Login
-client.login("");
+client.login(" ");
 //Error Handle
 process.on("unhandledRejection", (error) => {
     return console.log(error);
